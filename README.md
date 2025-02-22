@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 - 🔭 I’m currently working on FocusFlow 
 - 🌱 I’m currently learning Python , C++ , SQL
-- 📫 How to reach me: tanishadhull2005@gmaill.com
+- 📫 How to reach me: tdhull@ualberta.ca
 - ⚡ Fun fact: I love coding while listening to music and munching on chocolate cake 
 
 ---
